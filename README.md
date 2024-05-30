@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Flask and ASP.NET Core.**
 
-- 💬 Ask me about **react, vue and Angular**
+- 💬 Ask me about **react, vue and angular**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
